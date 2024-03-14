@@ -29,5 +29,4 @@ I'm Mohd Amir, a passionate Full Stack Web Developer with a penchant for pixels 
 
 If you're passionate about tech, creativity, or just want to chat about the meaning of life (spoiler: it's 42), don't hesitate to reach out! Together, we can conquer the digital frontier and build a better tomorrow, one line of code at a time.
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/webdevamir?style=social)](https://twitter.com/@webdevamir) [![LinkedIn Connect](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-amir-817669260/)](https://www.linkedin.com/in/mohd-amir-817669260/)
-
+[![Twitter Follow](https://img.shields.io/twitter/follow/webdevamir?style=social)](https://twitter.com/@webdevamir) [![LinkedIn Connect](https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-amir-7b89612b9/)](https://www.linkedin.com/in/mohd-amir-7b89612b9/)
